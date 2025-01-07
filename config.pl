@@ -6,4 +6,4 @@ use warnings;
 
 our $TITLE = "Simple Perl Calculator";
 
-1;  # Return true value to indicate successful loading
+1;  # Return true value to indicate successful loadings
